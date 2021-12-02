@@ -111,6 +111,8 @@ section{
 .wish-price{
   font-size: 2rem;
   font-weight:lighter;
+  opacity: 0;
+  visibility: hidden;
 }
 
 .wish-description{
