@@ -75,7 +75,7 @@ section{
 }
 
 .mac-width{
-  width: 40rem;
+  width: 35rem;
   height: 25rem; 
 }
 
@@ -118,6 +118,7 @@ section{
 .wish-description{
   padding: 2rem;
   font-size: 1.5rem;
+  text-align:center;
 }
 
 .wish-card:hover .card-detail{
